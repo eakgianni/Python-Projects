@@ -1,3 +1,5 @@
+#unfinished dungion crawl system
+
 import sys
 
 
